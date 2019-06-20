@@ -1,3 +1,3 @@
 # savedata2
-tdak ada deskripsi
+tdak ada deskripsi\n
 Dan lo ngentot ngapain kesini
